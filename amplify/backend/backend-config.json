@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"gymappa08231f4": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

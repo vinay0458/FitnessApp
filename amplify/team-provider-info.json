@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-gymapp-dev-223426-authRole",
+            "UnauthRoleArn": "arn:aws:iam::665579649601:role/amplify-gymapp-dev-223426-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::665579649601:role/amplify-gymapp-dev-223426-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-gymapp-dev-223426-deployment",
+            "UnauthRoleName": "amplify-gymapp-dev-223426-unauthRole",
+            "StackName": "amplify-gymapp-dev-223426",
+            "StackId": "arn:aws:cloudformation:us-west-2:665579649601:stack/amplify-gymapp-dev-223426/4df0a1b0-044d-11ea-b4fb-0af6392a9a8a"
+        },
+        "categories": {
+            "auth": {
+                "gymappa08231f4": {}
+            }
+        }
+    }
+}
